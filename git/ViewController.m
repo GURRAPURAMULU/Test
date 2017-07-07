@@ -19,6 +19,9 @@
     
     
     NSString*ramu;
+
+    NSString*ramu111;
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
