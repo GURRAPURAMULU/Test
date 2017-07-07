@@ -14,8 +14,11 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
+    
+    NSArray*arrau;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
