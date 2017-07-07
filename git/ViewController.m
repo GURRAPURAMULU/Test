@@ -18,9 +18,7 @@
 {
     [super viewDidLoad];
     
-    NSArray*arrau;
-    NSArray*arrau1;
-
+   
     // Do any additional setup after loading the view, typically from a nib.
 }
 
