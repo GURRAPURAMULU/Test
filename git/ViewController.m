@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
+    NSString*ramu;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -25,7 +28,7 @@
     // Dispose of any resources that can be recreated.
 }
 
-
+//dasddddd
 
 //ramesh1
 @end
