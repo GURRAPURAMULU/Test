@@ -10,7 +10,7 @@
 
 @interface ViewController ()
 {
-    int a;
+    int b;
 }
 @end
 
